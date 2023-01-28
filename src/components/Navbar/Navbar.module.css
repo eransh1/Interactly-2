@@ -1,0 +1,8 @@
+.navbar_brand{
+    text-decoration: none;
+    color: rgb(97, 64, 255);
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: "Poppins";
+    padding: 1rem;
+}
