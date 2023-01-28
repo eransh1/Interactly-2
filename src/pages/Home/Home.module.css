@@ -60,6 +60,15 @@ font-size: 2rem;
     font-weight: 600;
 }
 
-.videoDate{
-    
+@media(max-width:800px){
+    .videoContainer{
+        flex-direction: column;
+    } 
+    .videoDetail{
+        margin-top: 1.5rem;
+    }
+    .shareLinkCont{
+        margin: auto;
+        margin-top: 1.5rem;
+    }
 }
